@@ -1,0 +1,19 @@
+diff --git a/test_exp/settings.py b/test_exp/settings.py
+index 445da88..3a32dba 100644
+--- a/test_exp/settings.py
++++ b/test_exp/settings.py
+@@ -23,10 +23,12 @@ STATIC_ROOT = os.path.join(BASE_DIR, "static")
+ SECRET_KEY = '^kv+0_z#q8n=j%fun_fng0=kfmjl@-rui(%j+p)&fl_kpz^v59'
+ 
+ # SECURITY WARNING: don't run with debug turned on in production!
+-DEBUG = False
++# DEBUG = False
+ 
+-ALLOWED_HOSTS = ['sdh.pythonanywhere.com']
++# ALLOWED_HOSTS = ['sdh.pythonanywhere.com']
++DEBUG = True
+ 
++ALLOWED_HOSTS = ['0.0.0.0', '192.168.0.106', '127.0.0.1']
+ 
+ # Application definition
+ 

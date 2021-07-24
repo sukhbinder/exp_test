@@ -1,0 +1,1828 @@
+[
+    {
+        "model": "exp.expense",
+        "pk": 1,
+        "fields": {
+            "date": "2020-09-16",
+            "where": "Apt Utilities",
+            "amount": 198.0,
+            "tags": "light bulbs CASH sumanth",
+            "how": "ONLINE"
+        }
+    },
+    {
+        "model": "exp.expense",
+        "pk": 2,
+        "fields": {
+            "date": "2020-09-24",
+            "where": "Apt Utilities",
+            "amount": 495.0,
+            "tags": "5 more bulbs CASH sumanth",
+            "how": "ONLINE"
+        }
+    },
+    {
+        "model": "exp.expense",
+        "pk": 3,
+        "fields": {
+            "date": "2020-09-26",
+            "where": "Apt Utilities",
+            "amount": 350.0,
+            "tags": "bulbs ordered amazon bill CASH sukhbinder",
+            "how": "CASH"
+        }
+    },
+    {
+        "model": "exp.expense",
+        "pk": 4,
+        "fields": {
+            "date": "2020-09-30",
+            "where": "BESCOM",
+            "amount": 200.0,
+            "tags": "Given to BESCOM cash sumanth",
+            "how": "ONLINE"
+        }
+    },
+    {
+        "model": "exp.expense",
+        "pk": 5,
+        "fields": {
+            "date": "2020-09-30",
+            "where": "diesel",
+            "amount": 7767.34,
+            "tags": "diesel my petrol pump Online SBI",
+            "how": "ONLINE"
+        }
+    },
+    {
+        "model": "exp.expense",
+        "pk": 6,
+        "fields": {
+            "date": "2020-10-02",
+            "where": "Apt Utilities",
+            "amount": 1800.0,
+            "tags": "Storage room lock change CASH payment",
+            "how": "CASH"
+        }
+    },
+    {
+        "model": "exp.expense",
+        "pk": 7,
+        "fields": {
+            "date": "2020-10-02",
+            "where": "salary",
+            "amount": 1200.0,
+            "tags": "Rakesh Block B salary for 4 days CASH",
+            "how": "CASH"
+        }
+    },
+    {
+        "model": "exp.expense",
+        "pk": 8,
+        "fields": {
+            "date": "2020-10-02",
+            "where": "salary",
+            "amount": 9500.0,
+            "tags": "Tara watchman Block B salary CASH",
+            "how": "CASH"
+        }
+    },
+    {
+        "model": "exp.expense",
+        "pk": 9,
+        "fields": {
+            "date": "2020-10-02",
+            "where": "salary",
+            "amount": 9500.0,
+            "tags": "Block A night watchman salary CASH",
+            "how": "CASH"
+        }
+    },
+    {
+        "model": "exp.expense",
+        "pk": 10,
+        "fields": {
+            "date": "2020-10-02",
+            "where": "salary",
+            "amount": 12000.0,
+            "tags": "Salary for Akash (4000 extra for extra inplace of GUNA's absense) CASH",
+            "how": "CASH"
+        }
+    },
+    {
+        "model": "exp.expense",
+        "pk": 11,
+        "fields": {
+            "date": "2020-10-02",
+            "where": "salary",
+            "amount": 8000.0,
+            "tags": "cleaning maid salary SDH CASH",
+            "how": "CASH"
+        }
+    },
+    {
+        "model": "exp.expense",
+        "pk": 12,
+        "fields": {
+            "date": "2020-10-03",
+            "where": "BESCOM",
+            "amount": 13671.0,
+            "tags": "Electricity bill paid in oct 2020 for B block online",
+            "how": "ONLINE"
+        }
+    },
+    {
+        "model": "exp.expense",
+        "pk": 13,
+        "fields": {
+            "date": "2020-10-03",
+            "where": "BESCOM",
+            "amount": 12242.0,
+            "tags": "electricity bill paid in oct block a online",
+            "how": "ONLINE"
+        }
+    },
+    {
+        "model": "exp.expense",
+        "pk": 14,
+        "fields": {
+            "date": "2020-10-04",
+            "where": "newspaper",
+            "amount": 730.0,
+            "tags": "Cash newspapers sdh",
+            "how": "CASH"
+        }
+    },
+    {
+        "model": "exp.expense",
+        "pk": 15,
+        "fields": {
+            "date": "2020-10-06",
+            "where": "CleaningMaterial",
+            "amount": 161.5,
+            "tags": "Shakti Good Night CASH",
+            "how": "CASH"
+        }
+    },
+    {
+        "model": "exp.expense",
+        "pk": 16,
+        "fields": {
+            "date": "2020-10-06",
+            "where": "CleaningMaterial",
+            "amount": 576.48,
+            "tags": "Shakti Brooms and Cleaning CASH",
+            "how": "CASH"
+        }
+    },
+    {
+        "model": "exp.expense",
+        "pk": 17,
+        "fields": {
+            "date": "2020-10-06",
+            "where": "garbage",
+            "amount": 5000.0,
+            "tags": "Garbage collection payment CASH",
+            "how": "CASH"
+        }
+    },
+    {
+        "model": "exp.expense",
+        "pk": 18,
+        "fields": {
+            "date": "2020-10-09",
+            "where": "CleaningMaterial",
+            "amount": 505.0,
+            "tags": "Shakti Sanitizers CASH",
+            "how": "CASH"
+        }
+    },
+    {
+        "model": "exp.expense",
+        "pk": 19,
+        "fields": {
+            "date": "2020-10-11",
+            "where": "CCTV",
+            "amount": 12001.0,
+            "tags": "CCTV harddisk change Bank Transfer online",
+            "how": "ONLINE"
+        }
+    },
+    {
+        "model": "exp.expense",
+        "pk": 20,
+        "fields": {
+            "date": "2020-10-12",
+            "where": "Apt Stationary",
+            "amount": 69.0,
+            "tags": "cash book pens Swapan",
+            "how": "CASH"
+        }
+    },
+    {
+        "model": "exp.expense",
+        "pk": 21,
+        "fields": {
+            "date": "2020-10-14",
+            "where": "water",
+            "amount": 21728.8,
+            "tags": "Water Bill for SDH online",
+            "how": "ONLINE"
+        }
+    },
+    {
+        "model": "exp.expense",
+        "pk": 22,
+        "fields": {
+            "date": "2020-10-17",
+            "where": "Plumber Charges",
+            "amount": 1050.0,
+            "tags": "CASH for Plumbing Issue block B",
+            "how": "CASH"
+        }
+    },
+    {
+        "model": "exp.expense",
+        "pk": 23,
+        "fields": {
+            "date": "2020-10-17",
+            "where": "CleaningMaterial",
+            "amount": 1000.0,
+            "tags": "CASH to Akash for brooms and cleaning utilities",
+            "how": "CASH"
+        }
+    },
+    {
+        "model": "exp.expense",
+        "pk": 24,
+        "fields": {
+            "date": "2020-10-25",
+            "where": "BESCOM",
+            "amount": 530.0,
+            "tags": "ASD for Common Area",
+            "how": "ONLINE"
+        }
+    },
+    {
+        "model": "exp.expense",
+        "pk": 25,
+        "fields": {
+            "date": "2020-10-29",
+            "where": "BESCOM",
+            "amount": 200.0,
+            "tags": "fuse fix cash given to bescom",
+            "how": "CASH"
+        }
+    },
+    {
+        "model": "exp.expense",
+        "pk": 26,
+        "fields": {
+            "date": "2020-10-31",
+            "where": "salary",
+            "amount": 9500.0,
+            "tags": "akash salary block a cash",
+            "how": "CASH"
+        }
+    },
+    {
+        "model": "exp.expense",
+        "pk": 27,
+        "fields": {
+            "date": "2020-10-31",
+            "where": "salary",
+            "amount": 9500.0,
+            "tags": "hrdya salary block a cash",
+            "how": "CASH"
+        }
+    },
+    {
+        "model": "exp.expense",
+        "pk": 28,
+        "fields": {
+            "date": "2020-10-31",
+            "where": "salary",
+            "amount": 9500.0,
+            "tags": "Tara salary block b cash",
+            "how": "CASH"
+        }
+    },
+    {
+        "model": "exp.expense",
+        "pk": 29,
+        "fields": {
+            "date": "2020-10-31",
+            "where": "salary",
+            "amount": 9500.0,
+            "tags": "Rakesh salary block b cash",
+            "how": "CASH"
+        }
+    },
+    {
+        "model": "exp.expense",
+        "pk": 30,
+        "fields": {
+            "date": "2020-10-31",
+            "where": "salary",
+            "amount": 8000.0,
+            "tags": "cleaning maid salary october",
+            "how": "CASH"
+        }
+    },
+    {
+        "model": "exp.expense",
+        "pk": 31,
+        "fields": {
+            "date": "2020-10-20",
+            "where": "CleaningMaterial",
+            "amount": 600.0,
+            "tags": "sanitizers from amazon SHAKTI",
+            "how": "CASH"
+        }
+    },
+    {
+        "model": "exp.expense",
+        "pk": 32,
+        "fields": {
+            "date": "2020-10-20",
+            "where": "CleaningMaterial",
+            "amount": 351.0,
+            "tags": "hand sanitizer from amazon SHAKTI",
+            "how": "CASH"
+        }
+    },
+    {
+        "model": "exp.expense",
+        "pk": 33,
+        "fields": {
+            "date": "2020-11-02",
+            "where": "newspaper",
+            "amount": 730.0,
+            "tags": "newspaper cash",
+            "how": "CASH"
+        }
+    },
+    {
+        "model": "exp.expense",
+        "pk": 34,
+        "fields": {
+            "date": "2020-11-04",
+            "where": "garbage",
+            "amount": 5000.0,
+            "tags": "garbage",
+            "how": "CASH"
+        }
+    },
+    {
+        "model": "exp.expense",
+        "pk": 35,
+        "fields": {
+            "date": "2020-11-07",
+            "where": "cleaning",
+            "amount": 200.0,
+            "tags": "road cleaning",
+            "how": "CASH"
+        }
+    },
+    {
+        "model": "exp.expense",
+        "pk": 36,
+        "fields": {
+            "date": "2020-11-07",
+            "where": "CleaningMaterial",
+            "amount": 196.0,
+            "tags": "CASH Cleaning Gloves for Security SWAPAN",
+            "how": "CASH"
+        }
+    },
+    {
+        "model": "exp.expense",
+        "pk": 37,
+        "fields": {
+            "date": "2020-11-10",
+            "where": "BESCOM",
+            "amount": 14147.0,
+            "tags": "electricity",
+            "how": "ONLINE"
+        }
+    },
+    {
+        "model": "exp.expense",
+        "pk": 38,
+        "fields": {
+            "date": "2020-11-10",
+            "where": "BESCOM",
+            "amount": 14150.54,
+            "tags": "electricity",
+            "how": "ONLINE"
+        }
+    },
+    {
+        "model": "exp.expense",
+        "pk": 39,
+        "fields": {
+            "date": "2020-11-10",
+            "where": "water",
+            "amount": 20672.8,
+            "tags": "water",
+            "how": "ONLINE"
+        }
+    },
+    {
+        "model": "exp.expense",
+        "pk": 40,
+        "fields": {
+            "date": "2020-11-17",
+            "where": "diesel",
+            "amount": 7748.34,
+            "tags": "my petrol pump",
+            "how": "ONLINE"
+        }
+    },
+    {
+        "model": "exp.expense",
+        "pk": 41,
+        "fields": {
+            "date": "2020-11-20",
+            "where": "Apt Stationary",
+            "amount": 50.0,
+            "tags": "xerox and copy to AKASH",
+            "how": "CASH"
+        }
+    },
+    {
+        "model": "exp.expense",
+        "pk": 42,
+        "fields": {
+            "date": "2020-11-21",
+            "where": "Apt Utilities",
+            "amount": 9263.0,
+            "tags": "payment to fire extinguisher refill",
+            "how": "ONLINE"
+        }
+    },
+    {
+        "model": "exp.expense",
+        "pk": 43,
+        "fields": {
+            "date": "2020-11-22",
+            "where": "salary",
+            "amount": 10000.0,
+            "tags": "hrdaya block a + diwali bonus",
+            "how": "CASH"
+        }
+    },
+    {
+        "model": "exp.expense",
+        "pk": 44,
+        "fields": {
+            "date": "2020-11-22",
+            "where": "salary",
+            "amount": 7000.0,
+            "tags": "Akash salary block a",
+            "how": "CASH"
+        }
+    },
+    {
+        "model": "exp.expense",
+        "pk": 45,
+        "fields": {
+            "date": "2020-11-22",
+            "where": "salary",
+            "amount": 8000.0,
+            "tags": "maid salary to Akash divided among Tara and Akash",
+            "how": "CASH"
+        }
+    },
+    {
+        "model": "exp.expense",
+        "pk": 46,
+        "fields": {
+            "date": "2020-11-22",
+            "where": "Plumber Charges",
+            "amount": 500.0,
+            "tags": "common area leakage KARTHIK",
+            "how": "CASH"
+        }
+    },
+    {
+        "model": "exp.expense",
+        "pk": 47,
+        "fields": {
+            "date": "2020-11-27",
+            "where": "BESCOM",
+            "amount": 14078.0,
+            "tags": "Electricity Block A. Previous one disputed working with SBI to revert",
+            "how": "ONLINE"
+        }
+    },
+    {
+        "model": "exp.expense",
+        "pk": 48,
+        "fields": {
+            "date": "2020-11-24",
+            "where": "BESCOM",
+            "amount": 200.0,
+            "tags": "BESCOM for fuse CASH SUMANTH",
+            "how": "ONLINE"
+        }
+    },
+    {
+        "model": "exp.expense",
+        "pk": 49,
+        "fields": {
+            "date": "2020-11-27",
+            "where": "Apt Utilities",
+            "amount": 960.0,
+            "tags": "CASH Bulbs and holder for Camera area SUMANTH",
+            "how": "ONLINE"
+        }
+    },
+    {
+        "model": "exp.expense",
+        "pk": 50,
+        "fields": {
+            "date": "2020-12-03",
+            "where": "diesel",
+            "amount": 7999.34,
+            "tags": "diesel for december",
+            "how": "ONLINE"
+        }
+    },
+    {
+        "model": "exp.expense",
+        "pk": 51,
+        "fields": {
+            "date": "2020-11-30",
+            "where": "salary",
+            "amount": 10000.0,
+            "tags": "security guard and diwali bonus paid by Bhanu on 2nd Dec",
+            "how": "CASH"
+        }
+    },
+    {
+        "model": "exp.expense",
+        "pk": 52,
+        "fields": {
+            "date": "2020-11-30",
+            "where": "salary",
+            "amount": 10000.0,
+            "tags": "salary and diwali bonus given by Bhanu",
+            "how": "CASH"
+        }
+    },
+    {
+        "model": "exp.expense",
+        "pk": 53,
+        "fields": {
+            "date": "2020-11-30",
+            "where": "salary",
+            "amount": 2500.0,
+            "tags": "paid by Bhanu Block A day security (Rajen) Nov salary from 23rd to 30th Nov",
+            "how": "CASH"
+        }
+    },
+    {
+        "model": "exp.expense",
+        "pk": 54,
+        "fields": {
+            "date": "2020-12-02",
+            "where": "garbage",
+            "amount": 5000.0,
+            "tags": "Nov Month charges payment for garbage collection paid by Bhanu",
+            "how": "CASH"
+        }
+    },
+    {
+        "model": "exp.expense",
+        "pk": 55,
+        "fields": {
+            "date": "2020-12-05",
+            "where": "CleaningMaterial",
+            "amount": 903.5,
+            "tags": "CASH for cleaning items purchase given by Bhanu to security gaurd",
+            "how": "CASH"
+        }
+    },
+    {
+        "model": "exp.expense",
+        "pk": 56,
+        "fields": {
+            "date": "2020-11-06",
+            "where": "CleaningMaterial",
+            "amount": 564.0,
+            "tags": "sanitizers brought by Shakti",
+            "how": "CASH"
+        }
+    },
+    {
+        "model": "exp.expense",
+        "pk": 57,
+        "fields": {
+            "date": "2020-11-06",
+            "where": "CleaningMaterial",
+            "amount": 398.0,
+            "tags": "poly gaurd and other things bought by Shakti",
+            "how": "CASH"
+        }
+    },
+    {
+        "model": "exp.expense",
+        "pk": 58,
+        "fields": {
+            "date": "2020-12-10",
+            "where": "BESCOM",
+            "amount": 10643.0,
+            "tags": "block A bill  for NOV",
+            "how": "ONLINE"
+        }
+    },
+    {
+        "model": "exp.expense",
+        "pk": 59,
+        "fields": {
+            "date": "2020-12-10",
+            "where": "water",
+            "amount": 21596.8,
+            "tags": "water bill",
+            "how": "ONLINE"
+        }
+    },
+    {
+        "model": "exp.expense",
+        "pk": 60,
+        "fields": {
+            "date": "2020-12-15",
+            "where": "Genarotor AMC",
+            "amount": 700.0,
+            "tags": "generator general checkup and fix for fuel meter problem in a block. paid cash by SUMANTH",
+            "how": "ONLINE"
+        }
+    },
+    {
+        "model": "exp.expense",
+        "pk": 61,
+        "fields": {
+            "date": "2020-12-16",
+            "where": "Lift Maintenace & AMC",
+            "amount": 11800.0,
+            "tags": "Lift maintenance for DEC to FEB",
+            "how": "ONLINE"
+        }
+    },
+    {
+        "model": "exp.expense",
+        "pk": 62,
+        "fields": {
+            "date": "2020-12-19",
+            "where": "Lift Maintenace & AMC",
+            "amount": 8000.0,
+            "tags": "lift buttons and oil change",
+            "how": "ONLINE"
+        }
+    },
+    {
+        "model": "exp.expense",
+        "pk": 63,
+        "fields": {
+            "date": "2020-12-19",
+            "where": "BESCOM",
+            "amount": 4800.0,
+            "tags": "cash paid to bescom guy by BHANU for master metre change",
+            "how": "CASH"
+        }
+    },
+    {
+        "model": "exp.expense",
+        "pk": 64,
+        "fields": {
+            "date": "2020-12-17",
+            "where": "Apt Utilities",
+            "amount": 990.0,
+            "tags": "bulbs yellow mart CASH SUMANTH",
+            "how": "ONLINE"
+        }
+    },
+    {
+        "model": "exp.expense",
+        "pk": 65,
+        "fields": {
+            "date": "2020-12-23",
+            "where": "CleaningMaterial",
+            "amount": 100.0,
+            "tags": "for cleaning lady for road cleaning paid by bhanu",
+            "how": "CASH"
+        }
+    },
+    {
+        "model": "exp.expense",
+        "pk": 66,
+        "fields": {
+            "date": "2020-12-28",
+            "where": "salary",
+            "amount": 9500.0,
+            "tags": "Block A day security Dec 2020 salary CASH",
+            "how": "CASH"
+        }
+    },
+    {
+        "model": "exp.expense",
+        "pk": 67,
+        "fields": {
+            "date": "2020-12-28",
+            "where": "salary",
+            "amount": 9500.0,
+            "tags": "Block A Night security Dec 2020 salary CASH",
+            "how": "CASH"
+        }
+    },
+    {
+        "model": "exp.expense",
+        "pk": 68,
+        "fields": {
+            "date": "2020-12-28",
+            "where": "salary",
+            "amount": 9500.0,
+            "tags": "Block B day security Dec 2020 salary CASH",
+            "how": "CASH"
+        }
+    },
+    {
+        "model": "exp.expense",
+        "pk": 69,
+        "fields": {
+            "date": "2020-12-28",
+            "where": "salary",
+            "amount": 9500.0,
+            "tags": "Block B night security Dec 2020 salary CASH",
+            "how": "CASH"
+        }
+    },
+    {
+        "model": "exp.expense",
+        "pk": 70,
+        "fields": {
+            "date": "2020-12-28",
+            "where": "salary",
+            "amount": 8000.0,
+            "tags": "cleaning maid salary Dec 2020 paid by Bhanu",
+            "how": "CASH"
+        }
+    },
+    {
+        "model": "exp.expense",
+        "pk": 71,
+        "fields": {
+            "date": "2021-01-03",
+            "where": "newspaper",
+            "amount": 740.0,
+            "tags": "newspaper CASH paid by standing cash secretary Kartick",
+            "how": "CASH"
+        }
+    },
+    {
+        "model": "exp.expense",
+        "pk": 72,
+        "fields": {
+            "date": "2020-12-03",
+            "where": "newspaper",
+            "amount": 730.0,
+            "tags": "newspaper CASH by Bhanu",
+            "how": "CASH"
+        }
+    },
+    {
+        "model": "exp.expense",
+        "pk": 73,
+        "fields": {
+            "date": "2021-01-03",
+            "where": "garbage",
+            "amount": 5000.0,
+            "tags": "Nov Month charges payment for garbage collection paid by Karthick",
+            "how": "CASH"
+        }
+    },
+    {
+        "model": "exp.expense",
+        "pk": 74,
+        "fields": {
+            "date": "2021-01-06",
+            "where": "BESCOM",
+            "amount": 13494.8,
+            "tags": "electricity bill for dec 2020 for block B",
+            "how": "ONLINE"
+        }
+    },
+    {
+        "model": "exp.expense",
+        "pk": 75,
+        "fields": {
+            "date": "2021-01-06",
+            "where": "BESCOM",
+            "amount": 11273.8,
+            "tags": "Electricity bill for dec 2020 block A",
+            "how": "ONLINE"
+        }
+    },
+    {
+        "model": "exp.expense",
+        "pk": 76,
+        "fields": {
+            "date": "2021-01-07",
+            "where": "diesel",
+            "amount": 8167.34,
+            "tags": "Diesel for Jan 2021 pasfar technology",
+            "how": "ONLINE"
+        }
+    },
+    {
+        "model": "exp.expense",
+        "pk": 77,
+        "fields": {
+            "date": "2021-01-07",
+            "where": "CleaningMaterial",
+            "amount": 1735.6,
+            "tags": "cleaning material purchased by Karthik (acting cash treasurer)",
+            "how": "CASH"
+        }
+    },
+    {
+        "model": "exp.expense",
+        "pk": 78,
+        "fields": {
+            "date": "2021-01-07",
+            "where": "diesel",
+            "amount": 1577.2,
+            "tags": "20L diesel bought for emergency purpose by Sumanth. paid in cash",
+            "how": "ONLINE"
+        }
+    },
+    {
+        "model": "exp.expense",
+        "pk": 79,
+        "fields": {
+            "date": "2021-01-11",
+            "where": "water",
+            "amount": 22388.8,
+            "tags": "water bill for december",
+            "how": "ONLINE"
+        }
+    },
+    {
+        "model": "exp.expense",
+        "pk": 80,
+        "fields": {
+            "date": "2021-01-10",
+            "where": "BESCOM",
+            "amount": 200.0,
+            "tags": "paid to BESCOM for fuse fix by SUMANTH",
+            "how": "ONLINE"
+        }
+    },
+    {
+        "model": "exp.expense",
+        "pk": 81,
+        "fields": {
+            "date": "2021-01-29",
+            "where": "diesel",
+            "amount": 8389.34,
+            "tags": "diesel",
+            "how": "ONLINE"
+        }
+    },
+    {
+        "model": "exp.expense",
+        "pk": 82,
+        "fields": {
+            "date": "2021-02-05",
+            "where": "BESCOM",
+            "amount": 14583.0,
+            "tags": "electricity block B",
+            "how": "ONLINE"
+        }
+    },
+    {
+        "model": "exp.expense",
+        "pk": 83,
+        "fields": {
+            "date": "2021-02-05",
+            "where": "BESCOM",
+            "amount": 11882.0,
+            "tags": "Block A electricity",
+            "how": "ONLINE"
+        }
+    },
+    {
+        "model": "exp.expense",
+        "pk": 84,
+        "fields": {
+            "date": "2021-01-31",
+            "where": "salary",
+            "amount": 46000.0,
+            "tags": "Salary 9500*4+8000  paid by Swapan on 3rd Feb 2020",
+            "how": "CASH"
+        }
+    },
+    {
+        "model": "exp.expense",
+        "pk": 85,
+        "fields": {
+            "date": "2021-02-06",
+            "where": "newspaper",
+            "amount": 760.0,
+            "tags": "newspaper paid by karthick interim casier",
+            "how": "CASH"
+        }
+    },
+    {
+        "model": "exp.expense",
+        "pk": 86,
+        "fields": {
+            "date": "2021-02-06",
+            "where": "CleaningMaterial",
+            "amount": 1390.72,
+            "tags": "cleaning things bougt by karthick interim casier",
+            "how": "CASH"
+        }
+    },
+    {
+        "model": "exp.expense",
+        "pk": 87,
+        "fields": {
+            "date": "2021-02-04",
+            "where": "cleaning",
+            "amount": 200.0,
+            "tags": "BBMP sweepers for two months",
+            "how": "CASH"
+        }
+    },
+    {
+        "model": "exp.expense",
+        "pk": 88,
+        "fields": {
+            "date": "2021-02-06",
+            "where": "CleaningMaterial",
+            "amount": 898.0,
+            "tags": "Karthick paid for Cleaning material  500+398 =898",
+            "how": "CASH"
+        }
+    },
+    {
+        "model": "exp.expense",
+        "pk": 89,
+        "fields": {
+            "date": "2021-02-12",
+            "where": "water",
+            "amount": 21629.8,
+            "tags": "water bill for jan 2021",
+            "how": "ONLINE"
+        }
+    },
+    {
+        "model": "exp.expense",
+        "pk": 90,
+        "fields": {
+            "date": "2021-02-20",
+            "where": "diesel",
+            "amount": 8863.34,
+            "tags": "generator diesel feb 2021",
+            "how": "ONLINE"
+        }
+    },
+    {
+        "model": "exp.expense",
+        "pk": 91,
+        "fields": {
+            "date": "2021-02-18",
+            "where": "Apt Utilities",
+            "amount": 1110.0,
+            "tags": "swapan bought lock Paid in cash by Karthik",
+            "how": "CASH"
+        }
+    },
+    {
+        "model": "exp.expense",
+        "pk": 92,
+        "fields": {
+            "date": "2021-02-20",
+            "where": "Sump Maintenace",
+            "amount": 3000.0,
+            "tags": "Sewage Sump cleaning A and B Block",
+            "how": "CASH"
+        }
+    },
+    {
+        "model": "exp.expense",
+        "pk": 93,
+        "fields": {
+            "date": "2021-02-23",
+            "where": "Electrical Maintenance",
+            "amount": 2550.0,
+            "tags": "Panel Board Coil Change and preventer Paid by Sumanth: money transfered on 27mar2021",
+            "how": "ONLINE"
+        }
+    },
+    {
+        "model": "exp.expense",
+        "pk": 94,
+        "fields": {
+            "date": "2021-03-01",
+            "where": "CleaningMaterial",
+            "amount": 810.0,
+            "tags": "Cleaning Material money paid to security for house keeping essential Bhanu",
+            "how": "CASH"
+        }
+    },
+    {
+        "model": "exp.expense",
+        "pk": 95,
+        "fields": {
+            "date": "2021-02-02",
+            "where": "garbage",
+            "amount": 5000.0,
+            "tags": "Garbage cash paid by Karthick",
+            "how": "CASH"
+        }
+    },
+    {
+        "model": "exp.expense",
+        "pk": 96,
+        "fields": {
+            "date": "2021-02-28",
+            "where": "salary",
+            "amount": 38000.0,
+            "tags": "feb salary for 4 watchman Paid by Bhanu in first week of March",
+            "how": "CASH"
+        }
+    },
+    {
+        "model": "exp.expense",
+        "pk": 97,
+        "fields": {
+            "date": "2021-02-28",
+            "where": "salary",
+            "amount": 8000.0,
+            "tags": "cleaning maid salary feb 2021 paid by Bhanu in first week of march",
+            "how": "CASH"
+        }
+    },
+    {
+        "model": "exp.expense",
+        "pk": 98,
+        "fields": {
+            "date": "2021-03-06",
+            "where": "BESCOM",
+            "amount": 13565.0,
+            "tags": "Block B electricity bill",
+            "how": "ONLINE"
+        }
+    },
+    {
+        "model": "exp.expense",
+        "pk": 99,
+        "fields": {
+            "date": "2021-03-06",
+            "where": "BESCOM",
+            "amount": 11112.0,
+            "tags": "Block A electricity bill",
+            "how": "ONLINE"
+        }
+    },
+    {
+        "model": "exp.expense",
+        "pk": 100,
+        "fields": {
+            "date": "2021-03-10",
+            "where": "water",
+            "amount": 23345.8,
+            "tags": "Water",
+            "how": "ONLINE"
+        }
+    },
+    {
+        "model": "exp.expense",
+        "pk": 101,
+        "fields": {
+            "date": "2021-03-05",
+            "where": "garbage",
+            "amount": 5000.0,
+            "tags": "garbage collection paid by Bhanu Interim Cashier",
+            "how": "CASH"
+        }
+    },
+    {
+        "model": "exp.expense",
+        "pk": 102,
+        "fields": {
+            "date": "2021-03-17",
+            "where": "Lift Maintenace & AMC",
+            "amount": 11800.0,
+            "tags": "AMC emi for Mar, apr, and may Elevator Solutions",
+            "how": "ONLINE"
+        }
+    },
+    {
+        "model": "exp.expense",
+        "pk": 103,
+        "fields": {
+            "date": "2021-03-21",
+            "where": "Apt Utilities",
+            "amount": 2600.0,
+            "tags": "green matress for lifts paid by Swapan money paid to Sumanth 27mar2021",
+            "how": "ONLINE"
+        }
+    },
+    {
+        "model": "exp.expense",
+        "pk": 104,
+        "fields": {
+            "date": "2021-03-24",
+            "where": "Apt Stationary",
+            "amount": 16.0,
+            "tags": "Printing of SDH owner list paid by SWAPAN. money paid to Sumanth 27mar2021",
+            "how": "ONLINE"
+        }
+    },
+    {
+        "model": "exp.expense",
+        "pk": 105,
+        "fields": {
+            "date": "2021-04-03",
+            "where": "Apt Utilities",
+            "amount": 1180.0,
+            "tags": "1180 for powder cylinder+training charge",
+            "how": "ONLINE"
+        }
+    },
+    {
+        "model": "exp.expense",
+        "pk": 106,
+        "fields": {
+            "date": "2021-04-03",
+            "where": "Apt Utilities",
+            "amount": 786.0,
+            "tags": "for CO2 demo as per additional invoice.",
+            "how": "ONLINE"
+        }
+    },
+    {
+        "model": "exp.expense",
+        "pk": 107,
+        "fields": {
+            "date": "2021-03-06",
+            "where": "newspaper",
+            "amount": 760.0,
+            "tags": "newspaper paid by Bhanu",
+            "how": "CASH"
+        }
+    },
+    {
+        "model": "exp.expense",
+        "pk": 108,
+        "fields": {
+            "date": "2021-03-06",
+            "where": "garbage",
+            "amount": 5000.0,
+            "tags": "Garbage cash for Feb paid by Bhanu",
+            "how": "CASH"
+        }
+    },
+    {
+        "model": "exp.expense",
+        "pk": 109,
+        "fields": {
+            "date": "2021-03-31",
+            "where": "salary",
+            "amount": 38000.0,
+            "tags": "Mar salary for 4 watchman Paid by Bhanu in first week of Apr",
+            "how": "CASH"
+        }
+    },
+    {
+        "model": "exp.expense",
+        "pk": 110,
+        "fields": {
+            "date": "2021-03-31",
+            "where": "salary",
+            "amount": 8000.0,
+            "tags": "cleaning maid salary Mar 2021 paid by Bhanu in first week of Apr",
+            "how": "CASH"
+        }
+    },
+    {
+        "model": "exp.expense",
+        "pk": 111,
+        "fields": {
+            "date": "2021-04-03",
+            "where": "garbage",
+            "amount": 5000.0,
+            "tags": "Garbage cash for Mar paid by Bhanu",
+            "how": "CASH"
+        }
+    },
+    {
+        "model": "exp.expense",
+        "pk": 112,
+        "fields": {
+            "date": "2021-04-04",
+            "where": "newspaper",
+            "amount": 760.0,
+            "tags": "Newspaper bill paid by bhanu",
+            "how": "CASH"
+        }
+    },
+    {
+        "model": "exp.expense",
+        "pk": 113,
+        "fields": {
+            "date": "2021-04-07",
+            "where": "BESCOM",
+            "amount": 15832.0,
+            "tags": "Block B March Electricity Bill",
+            "how": "ONLINE"
+        }
+    },
+    {
+        "model": "exp.expense",
+        "pk": 114,
+        "fields": {
+            "date": "2021-04-07",
+            "where": "BESCOM",
+            "amount": 12620.0,
+            "tags": "Block A March Electricity Bill",
+            "how": "ONLINE"
+        }
+    },
+    {
+        "model": "exp.expense",
+        "pk": 115,
+        "fields": {
+            "date": "2021-04-07",
+            "where": "Others",
+            "amount": 1000.0,
+            "tags": "Sanitizer purchased by Sakti",
+            "how": "ONLINE"
+        }
+    },
+    {
+        "model": "exp.expense",
+        "pk": 116,
+        "fields": {
+            "date": "2021-04-06",
+            "where": "cleaning",
+            "amount": 100.0,
+            "tags": "Bbmp road cleaning paid by bhanu",
+            "how": "CASH"
+        }
+    },
+    {
+        "model": "exp.expense",
+        "pk": 117,
+        "fields": {
+            "date": "2021-04-07",
+            "where": "CleaningMaterial",
+            "amount": 1193.5,
+            "tags": "Material purchased by security paid by bhanu",
+            "how": "CASH"
+        }
+    },
+    {
+        "model": "exp.expense",
+        "pk": 118,
+        "fields": {
+            "date": "2021-04-08",
+            "where": "CleaningMaterial",
+            "amount": 120.0,
+            "tags": "Broom purchased by security paid by bhanu",
+            "how": "CASH"
+        }
+    },
+    {
+        "model": "exp.expense",
+        "pk": 119,
+        "fields": {
+            "date": "2021-04-10",
+            "where": "Sump Maintenace",
+            "amount": 6500.0,
+            "tags": "Sump and overhead tanks cleaning paid by Bhanu",
+            "how": "CASH"
+        }
+    },
+    {
+        "model": "exp.expense",
+        "pk": 120,
+        "fields": {
+            "date": "2021-04-12",
+            "where": "water",
+            "amount": 23609.8,
+            "tags": "water bill paid",
+            "how": "ONLINE"
+        }
+    },
+    {
+        "model": "exp.expense",
+        "pk": 121,
+        "fields": {
+            "date": "2021-04-18",
+            "where": "Apt Utilities",
+            "amount": 990.0,
+            "tags": "Bulbs purchased by Sumanth",
+            "how": "ONLINE"
+        }
+    },
+    {
+        "model": "exp.expense",
+        "pk": 122,
+        "fields": {
+            "date": "2021-04-18",
+            "where": "BESCOM",
+            "amount": 200.0,
+            "tags": "Paid to electrition for block B fuse paid by Sumanth",
+            "how": "ONLINE"
+        }
+    },
+    {
+        "model": "exp.expense",
+        "pk": 123,
+        "fields": {
+            "date": "2021-04-22",
+            "where": "Apt Utilities",
+            "amount": 30.0,
+            "tags": "two AA cells for both the blocks watches paid by Swapan",
+            "how": "ONLINE"
+        }
+    },
+    {
+        "model": "exp.expense",
+        "pk": 124,
+        "fields": {
+            "date": "2021-04-19",
+            "where": "Apt Stationary",
+            "amount": 100.0,
+            "tags": "Apt Stationary Copy and pen paid by Swapan",
+            "how": "ONLINE"
+        }
+    },
+    {
+        "model": "exp.expense",
+        "pk": 125,
+        "fields": {
+            "date": "2021-04-23",
+            "where": "diesel",
+            "amount": 8839.34,
+            "tags": "Diesel from my petrolpump",
+            "how": "ONLINE"
+        }
+    },
+    {
+        "model": "exp.expense",
+        "pk": 126,
+        "fields": {
+            "date": "2021-04-23",
+            "where": "BESCOM",
+            "amount": 150.0,
+            "tags": "Paid Rs 150 to electrician Sekar for lift panel reset Paid by Swapan",
+            "how": "ONLINE"
+        }
+    },
+    {
+        "model": "exp.expense",
+        "pk": 127,
+        "fields": {
+            "date": "2021-04-23",
+            "where": "diesel",
+            "amount": 2567.7,
+            "tags": "30L diesel baught by Sumanth Paid by Sumanth",
+            "how": "ONLINE"
+        }
+    },
+    {
+        "model": "exp.expense",
+        "pk": 128,
+        "fields": {
+            "date": "2021-04-30",
+            "where": "salary",
+            "amount": 38000.0,
+            "tags": "salary to security persons",
+            "how": "CASH"
+        }
+    },
+    {
+        "model": "exp.expense",
+        "pk": 129,
+        "fields": {
+            "date": "2021-04-30",
+            "where": "salary",
+            "amount": 8000.0,
+            "tags": "maids salary for APR",
+            "how": "CASH"
+        }
+    },
+    {
+        "model": "exp.expense",
+        "pk": 130,
+        "fields": {
+            "date": "2021-04-30",
+            "where": "Apt Utilities",
+            "amount": 1129.5,
+            "tags": "cleaning stuff bought in yellowmart by security",
+            "how": "CASH"
+        }
+    },
+    {
+        "model": "exp.expense",
+        "pk": 131,
+        "fields": {
+            "date": "2021-04-30",
+            "where": "CleaningMaterial",
+            "amount": 1000.0,
+            "tags": "hand sanitizers from Apollo by Watchman",
+            "how": "CASH"
+        }
+    },
+    {
+        "model": "exp.expense",
+        "pk": 132,
+        "fields": {
+            "date": "2021-05-02",
+            "where": "garbage",
+            "amount": 5000.0,
+            "tags": "Garbage bill paid by bhanu",
+            "how": "CASH"
+        }
+    },
+    {
+        "model": "exp.expense",
+        "pk": 133,
+        "fields": {
+            "date": "2021-05-05",
+            "where": "newspaper",
+            "amount": 760.0,
+            "tags": "Newspaper paid by bhanu",
+            "how": "CASH"
+        }
+    },
+    {
+        "model": "exp.expense",
+        "pk": 134,
+        "fields": {
+            "date": "2021-05-06",
+            "where": "others",
+            "amount": 1360.0,
+            "tags": "Masks and disposable gloves purchased by swapan",
+            "how": "ONLINE"
+        }
+    },
+    {
+        "model": "exp.expense",
+        "pk": 135,
+        "fields": {
+            "date": "2021-05-11",
+            "where": "BESCOM",
+            "amount": 12032.0,
+            "tags": "block A electricity bill",
+            "how": "ONLINE"
+        }
+    },
+    {
+        "model": "exp.expense",
+        "pk": 136,
+        "fields": {
+            "date": "2021-05-11",
+            "where": "BESCOM",
+            "amount": 18236.0,
+            "tags": "block B electricity bill",
+            "how": "ONLINE"
+        }
+    },
+    {
+        "model": "exp.expense",
+        "pk": 137,
+        "fields": {
+            "date": "2021-05-11",
+            "where": "others",
+            "amount": 3000.0,
+            "tags": "Sanitary sewer manhole blocage issue in block A paid byBhanu",
+            "how": "CASH"
+        }
+    },
+    {
+        "model": "exp.expense",
+        "pk": 138,
+        "fields": {
+            "date": "2021-05-14",
+            "where": "water",
+            "amount": 22421.8,
+            "tags": "water bill for april 2021",
+            "how": "ONLINE"
+        }
+    },
+    {
+        "model": "exp.expense",
+        "pk": 139,
+        "fields": {
+            "date": "2021-05-24",
+            "where": "others",
+            "amount": 1710.0,
+            "tags": "face sheild for watchman paid by sumanth",
+            "how": "ONLINE"
+        }
+    },
+    {
+        "model": "exp.expense",
+        "pk": 140,
+        "fields": {
+            "date": "2021-05-26",
+            "where": "CleaningMaterial",
+            "amount": 1000.0,
+            "tags": "5l sanitizer apollo paid by Sumanth",
+            "how": "ONLINE"
+        }
+    },
+    {
+        "model": "exp.expense",
+        "pk": 141,
+        "fields": {
+            "date": "2021-05-30",
+            "where": "others",
+            "amount": 5500.0,
+            "tags": "for COVID vaccine for watchmans cash paid by Sumanth",
+            "how": "ONLINE"
+        }
+    },
+    {
+        "model": "exp.expense",
+        "pk": 142,
+        "fields": {
+            "date": "2021-06-03",
+            "where": "garbage",
+            "amount": 5000.0,
+            "tags": "Cash paid by Sumanth (acting cash treseror)",
+            "how": "CASH"
+        }
+    },
+    {
+        "model": "exp.expense",
+        "pk": 143,
+        "fields": {
+            "date": "2021-06-03",
+            "where": "others",
+            "amount": 600.0,
+            "tags": "vaccination drive snack for cloud 9 paid by Swapan",
+            "how": "ONLINE"
+        }
+    },
+    {
+        "model": "exp.expense",
+        "pk": 144,
+        "fields": {
+            "date": "2021-05-31",
+            "where": "salary",
+            "amount": 38000.0,
+            "tags": "salary paid online on 2nd June 2021",
+            "how": "ONLINE"
+        }
+    },
+    {
+        "model": "exp.expense",
+        "pk": 145,
+        "fields": {
+            "date": "2021-05-31",
+            "where": "salary",
+            "amount": 8000.0,
+            "tags": "maid salary paid online on 2nd June 2021",
+            "how": "ONLINE"
+        }
+    },
+    {
+        "model": "exp.expense",
+        "pk": 146,
+        "fields": {
+            "date": "2021-06-03",
+            "where": "BESCOM",
+            "amount": 23690.0,
+            "tags": "Block A electricity bill for two months",
+            "how": "ONLINE"
+        }
+    },
+    {
+        "model": "exp.expense",
+        "pk": 147,
+        "fields": {
+            "date": "2021-06-03",
+            "where": "BESCOM",
+            "amount": 14586.0,
+            "tags": "Block B electricity bill",
+            "how": "ONLINE"
+        }
+    },
+    {
+        "model": "exp.expense",
+        "pk": 148,
+        "fields": {
+            "date": "2021-06-11",
+            "where": "Apt Utilities",
+            "amount": 756.95,
+            "tags": "soap coils etc for security paid by Cashier Sumanth",
+            "how": "CASH"
+        }
+    },
+    {
+        "model": "exp.expense",
+        "pk": 149,
+        "fields": {
+            "date": "2021-06-18",
+            "where": "water",
+            "amount": 22740.0,
+            "tags": "Water bill paid online. No phyical copy received by treseruer",
+            "how": "ONLINE"
+        }
+    },
+    {
+        "model": "exp.expense",
+        "pk": 150,
+        "fields": {
+            "date": "2021-06-24",
+            "where": "petrol",
+            "amount": 9648.34,
+            "tags": "Diesel ordered online fuelbuddy",
+            "how": "ONLINE"
+        }
+    },
+    {
+        "model": "exp.expense",
+        "pk": 151,
+        "fields": {
+            "date": "2021-06-24",
+            "where": "CleaningMaterial",
+            "amount": 1000.0,
+            "tags": "5l sanitizer ordered online from apollo",
+            "how": "ONLINE"
+        }
+    },
+    {
+        "model": "exp.expense",
+        "pk": 152,
+        "fields": {
+            "date": "2021-06-30",
+            "where": "salary",
+            "amount": 38000.0,
+            "tags": "salary paid for June on 2 July 2021",
+            "how": "ONLINE"
+        }
+    },
+    {
+        "model": "exp.expense",
+        "pk": 153,
+        "fields": {
+            "date": "2021-06-30",
+            "where": "salary",
+            "amount": 8000.0,
+            "tags": "cleaning maids salary paid on 2nd July 2021",
+            "how": "ONLINE"
+        }
+    },
+    {
+        "model": "exp.expense",
+        "pk": 154,
+        "fields": {
+            "date": "2021-06-27",
+            "where": "Lift Maintenace & AMC",
+            "amount": 11800.0,
+            "tags": "Lift maintenance for july aug september",
+            "how": "ONLINE"
+        }
+    },
+    {
+        "model": "exp.expense",
+        "pk": 155,
+        "fields": {
+            "date": "2021-07-02",
+            "where": "garbage",
+            "amount": 5000.0,
+            "tags": "Garbage bill paid by Sumanth",
+            "how": "CASH"
+        }
+    },
+    {
+        "model": "exp.expense",
+        "pk": 156,
+        "fields": {
+            "date": "2021-07-04",
+            "where": "Apt Utilities",
+            "amount": 13489.0,
+            "tags": "Generator repair and service",
+            "how": "ONLINE"
+        }
+    },
+    {
+        "model": "exp.expense",
+        "pk": 157,
+        "fields": {
+            "date": "2021-07-04",
+            "where": "others",
+            "amount": 128.0,
+            "tags": "Rat poison for garbage movement CASH by Karthick",
+            "how": "CASH"
+        }
+    },
+    {
+        "model": "exp.expense",
+        "pk": 158,
+        "fields": {
+            "date": "2021-07-07",
+            "where": "newspaper",
+            "amount": 1520.0,
+            "tags": "Cash paid by Sumanth (acting cash treseror) for two month newspaper",
+            "how": "CASH"
+        }
+    },
+    {
+        "model": "exp.expense",
+        "pk": 159,
+        "fields": {
+            "date": "2021-07-07",
+            "where": "CleaningMaterial",
+            "amount": 1125.44,
+            "tags": "Cleaning material bought by Karthick",
+            "how": "Karthick"
+        }
+    },
+    {
+        "model": "exp.expense",
+        "pk": 160,
+        "fields": {
+            "date": "2021-07-08",
+            "where": "BESCOM",
+            "amount": 15839.0,
+            "tags": "Block B electricity bill",
+            "how": "ONLINE"
+        }
+    },
+    {
+        "model": "exp.expense",
+        "pk": 161,
+        "fields": {
+            "date": "2021-07-08",
+            "where": "BESCOM",
+            "amount": 9591.0,
+            "tags": "Block A electricity bill",
+            "how": "ONLINE"
+        }
+    },
+    {
+        "model": "exp.expense",
+        "pk": 162,
+        "fields": {
+            "date": "2021-07-11",
+            "where": "cctv",
+            "amount": 730.0,
+            "tags": "Power plug and other thingsfor cvtv paid by Swapan",
+            "how": "Swapan"
+        }
+    },
+    {
+        "model": "exp.expense",
+        "pk": 163,
+        "fields": {
+            "date": "2021-07-11",
+            "where": "Others",
+            "amount": 750.0,
+            "tags": "Airwire internet wire in B blk paid by Swapan",
+            "how": "Swapan"
+        }
+    },
+    {
+        "model": "exp.expense",
+        "pk": 164,
+        "fields": {
+            "date": "2021-07-12",
+            "where": "cctv",
+            "amount": 11210.0,
+            "tags": "CCTV harddisk change",
+            "how": "ONLINE"
+        }
+    },
+    {
+        "model": "exp.expense",
+        "pk": 165,
+        "fields": {
+            "date": "2021-07-16",
+            "where": "Plumber Charges",
+            "amount": 1150.0,
+            "tags": "plumbing charges paid by Rajen money transfered",
+            "how": "ONLINE"
+        }
+    },
+    {
+        "model": "exp.expense",
+        "pk": 166,
+        "fields": {
+            "date": "2021-07-18",
+            "where": "water",
+            "amount": 23961.0,
+            "tags": "Water bill for june 2021",
+            "how": "ONLINE"
+        }
+    }
+]
